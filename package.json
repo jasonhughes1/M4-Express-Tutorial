@@ -1,0 +1,23 @@
+{
+  "name": "prework-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonhughes1/M4-Express-Tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonhughes1/M4-Express-Tutorial/issues"
+  },
+  "homepage": "https://github.com/jasonhughes1/M4-Express-Tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
